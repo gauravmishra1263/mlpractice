@@ -10,7 +10,7 @@ Welcome to my machine learning practice repository! Here you will find a collect
 - Pandas ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 - Matplotlib ![Matplotlib](https://img.shields.io/badge/-Matplotlib-EE4C2C?style=flat-square&logo=matplotlib&logoColor=white)
 - Seaborn ![Seaborn](https://img.shields.io/badge/-Seaborn-7C7B7D?style=flat-square&logo=seaborn&logoColor=white)
-
+- scikit-learn ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 
 
